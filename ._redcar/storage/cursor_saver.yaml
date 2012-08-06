@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2012-08-06 14:58:22.332000 +01:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2012-08-06 14:58:22.335000 +01:00
+  - :path: config/routes.rb
+    :cursor_offset: 869
+    :timestamp: 2012-08-06 15:27:20.467000 +01:00
+files_to_retain: 0
